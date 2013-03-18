@@ -1,0 +1,23 @@
+Daniel Monroy
+dm35729
+March 17, 2012
+CS314
+52870
+
+
+1.A pebble is dropped off the UT tower and hits the ground after 4 seconds. What is the height of the tower in meters? (Find h0 given h = 0.0, t = 4.0.)
+
+79.04 meters
+
+
+2.A car accelerates from zero to 60 mph (88 ft/s) in 8 seconds. What is its acceleration? (Find a given v = 88.0, t = 8.0.)
+
+11 ft/s/s
+
+3.A capacitor is charged through a resistance of 10K ohms using a 6 volt battery. It reaches 3 volts after 5 seconds. What is its capacitance? (Find c given v = 3.0, v0 = 6.0, r = 10000.0, t = 5.0.)
+
+7.213475204444818E-4 farads
+
+4.A ladder 10 ft long leans against a wall. The foot of the ladder is 6 ft from the wall. How far up the wall is the top of the ladder? (Find b given c = 10.0, a = 6.0.)
+
+8 ft

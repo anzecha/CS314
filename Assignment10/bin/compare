@@ -1,0 +1,125 @@
+Daniel Monroy
+dm35729
+April 25, 2012
+CS314
+52870
+
+AUSTIN TO MULESHOE
+
+Dijkstra
+start Dijkstra
+end Dijkstra, nodes = 71
+Road Distance austin to muleshoe = 452
+Route to muleshoe = (austin lampasas brownwood abilene roscoe snyder lubbock muleshoe)
+
+A*
+start A* dist
+end A*, nodes = 11
+Road Distance austin to muleshoe = 452
+Route to muleshoe = (austin lampasas brownwood abilene roscoe snyder lubbock muleshoe)
+
+start A* halfass
+end A*, nodes = 40
+Road Distance austin to muleshoe = 452
+Route to muleshoe = (austin lampasas brownwood abilene roscoe snyder lubbock muleshoe)
+
+start A* zip
+end A*, nodes = 65
+Road Distance austin to muleshoe = 452
+Route to muleshoe = (austin lampasas brownwood abilene roscoe snyder lubbock muleshoe)
+
+start A* randombs
+end A*, nodes = 65
+Road Distance austin to muleshoe = 452
+Route to muleshoe = (austin lampasas brownwood abilene roscoe snyder lubbock muleshoe)
+
+start A* randomlies
+end A*, nodes = 54
+Road Distance austin to muleshoe = 649
+Route to muleshoe = (austin lampasas brownwood abilene roscoe snyder lubbock muleshoe)
+
+
+Prim
+start Prim
+end Prim, total cost = 3598
+edgecost austin to temple = 62
+Route Austin to Muleshoe = (austin lampasas brownwood abilene roscoe big-spring lamesa lubbock muleshoe)
+pathcost austin to muleshoe = 501
+Total cost of all roads = 8061
+
+So Dijkstra had the most number of visited nodes while A* with the dist heuristic method had the least while they
+still had the same distance
+A* and Dijkstra both found the least expensive path while Prim had the most expensive
+
+LAREDO TO HASKELL
+Dijkstra
+start Dijkstra
+end Dijkstra, nodes = 67
+Road Distance laredo to haskell = 482
+Route to haskell = (laredo eagle-pass del-rio sonora san-angelo abilene haskell)
+
+A*
+start A* dist
+end A*, nodes = 14
+Road Distance laredo to haskell = 482
+Route to haskell = (laredo eagle-pass del-rio sonora san-angelo abilene haskell)
+
+start A* halfass
+end A*, nodes = 27
+Road Distance laredo to haskell = 482
+Route to haskell = (laredo eagle-pass del-rio sonora san-angelo abilene haskell)
+
+start A* zip
+end A*, nodes = 47
+Road Distance laredo to haskell = 482
+Route to haskell = (laredo eagle-pass del-rio sonora san-angelo abilene haskell)
+
+start A* randombs
+end A*, nodes = 47
+Road Distance laredo to haskell = 482
+Route to haskell = (laredo eagle-pass del-rio sonora san-angelo abilene haskell)
+
+start A* randomlies
+end A*, nodes = 39
+Road Distance laredo to haskell = 973
+Route to haskell = (laredo san-antonio columbus houston huntsville corsicana waco temple killeen lampasas brownwood abilene haskell)
+
+So Dijkstra had the most number of visited nodes while A* with the dist heuristic method had the least while they
+still had the same distance
+
+
+DUMAS TO CORSICANA
+Dijkstra
+start Dijkstra
+end Dijkstra, nodes = 68
+Road Distance dumas to corsicana = 467
+Route to corsicana = (dumas amarillo childress vernon wichita-falls fort-worth dallas corsicana)
+
+A*
+start A* dist
+end A*, nodes = 10
+Road Distance dumas to corsicana = 467
+Route to corsicana = (dumas amarillo childress vernon wichita-falls fort-worth dallas corsicana)
+
+start A* halfass
+end A*, nodes = 25
+Road Distance dumas to corsicana = 467
+Route to corsicana = (dumas amarillo childress vernon wichita-falls fort-worth dallas corsicana)
+
+start A* zip
+end A*, nodes = 34
+Road Distance dumas to corsicana = 467
+Route to corsicana = (dumas amarillo childress vernon wichita-falls fort-worth dallas corsicana)
+
+start A* randombs
+end A*, nodes = 34
+Road Distance dumas to corsicana = 467
+Route to corsicana = (dumas amarillo childress vernon wichita-falls fort-worth dallas corsicana)
+
+start A* randomlies
+end A*, nodes = 45
+Road Distance dumas to corsicana = 1353
+Route to corsicana = (dumas amarillo plainview lubbock seminole odessa pecos van-horn sonora junction austin columbus houston lufkin tyler corsicana)
+
+So Dijkstra had the most number of visited nodes while A* with the dist heuristic method had the least while they
+still had the same distance

@@ -1,0 +1,29 @@
+/*
+ * Daniel Monroy
+ * dm35729
+ * April 1, 2012
+ * CS314
+ * 52870
+ */
+
+1. What is the terminal voltage of a battery with a current of 0.3 amp and internal 
+resistance of 4 ohms and voltage of 12 volts ?
+
+10.8 volts
+
+2. What is the angular momentum of a circular motion with radius 4 m and mass 2 kg and velocity 3 m/s ?
+
+24.0 joule seconds
+
+3. What is the magnification of a converging lens with subject distance = 6 cm and focal length = 9 cm ?
+
+3.0
+
+4. What is the power of a lift with weight 700 nt and height 8 m and time 10 sec ?
+
+560.0 watts
+
+
+       "( (if ?test ?then) (if zspace zlparen zspace ?test zspace zrparen zspace { ztab zreturn ?then zreturn zuntab }))",
+       "((return ?x) (return zspace ?x ;))",       	
+       
